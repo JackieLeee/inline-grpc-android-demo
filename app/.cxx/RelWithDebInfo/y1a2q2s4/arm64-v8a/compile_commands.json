@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/dev/demo/crossplat-grpc-ipc-android-client/app/.cxx/RelWithDebInfo/y1a2q2s4/arm64-v8a",
+  "command": "C:\\Users\\mohang\\AppData\\Local\\Android\\Sdk\\ndk\\27.2.12479018\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=aarch64-none-linux-android24 --sysroot=C:/Users/mohang/AppData/Local/Android/Sdk/ndk/27.2.12479018/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgrpc_native_bridge_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\grpc_native_bridge.dir\\src\\main\\jni\\grpc_native_bridge.c.o -c C:\\dev\\demo\\crossplat-grpc-ipc-android-client\\app\\src\\main\\jni\\grpc_native_bridge.c",
+  "file": "C:\\dev\\demo\\crossplat-grpc-ipc-android-client\\app\\src\\main\\jni\\grpc_native_bridge.c"
+}
+]

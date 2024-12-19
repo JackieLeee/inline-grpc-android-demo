@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\dev\\demo\\crossplat-grpc-ipc-android-client\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\mohang\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\dev\\demo\\crossplat-grpc-ipc-android-client\\app\\.cxx\\RelWithDebInfo\\y1a2q2s4\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\mohang\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\dev\\demo\\crossplat-grpc-ipc-android-client\\app\\.cxx\\RelWithDebInfo\\y1a2q2s4\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "grpc_native_bridge::@6890427a1f51a3e7e1df": {
+      "artifactName": "grpc_native_bridge",
+      "abi": "arm64-v8a",
+      "output": "C:\\dev\\demo\\crossplat-grpc-ipc-android-client\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\y1a2q2s4\\obj\\arm64-v8a\\libgrpc_native_bridge.so",
+      "runtimeFiles": []
+    }
+  }
+}

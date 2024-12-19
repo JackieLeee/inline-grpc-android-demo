@@ -1,0 +1,5 @@
+# ninja log v5
+1	247	7563718980762528	CMakeFiles/grpc_native_bridge.dir/src/main/jni/grpc_native_bridge.c.o	b92473e15e01ced9
+249	481	7563718983098677	../../../../build/intermediates/cxx/Debug/3co6g6u3/obj/arm64-v8a/libgrpc_native_bridge.so	f3738cf07adb040b
+6	237	7563719884945034	CMakeFiles/grpc_native_bridge.dir/src/main/jni/grpc_native_bridge.c.o	b92473e15e01ced9
+242	558	7563719888161780	../../../../build/intermediates/cxx/Debug/3co6g6u3/obj/arm64-v8a/libgrpc_native_bridge.so	f3738cf07adb040b

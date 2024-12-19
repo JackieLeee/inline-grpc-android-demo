@@ -1,0 +1,3 @@
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/JackieLeee/crossplat-grpc-ipc-protobuf-defs.git

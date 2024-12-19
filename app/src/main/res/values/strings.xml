@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">基于IPC的GRPC客户端</string>
+</resources>

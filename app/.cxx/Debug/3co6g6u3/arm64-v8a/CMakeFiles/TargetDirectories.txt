@@ -1,0 +1,3 @@
+C:/dev/demo/crossplat-grpc-ipc-android-client/app/.cxx/Debug/3co6g6u3/arm64-v8a/CMakeFiles/grpc_native_bridge.dir
+C:/dev/demo/crossplat-grpc-ipc-android-client/app/.cxx/Debug/3co6g6u3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/dev/demo/crossplat-grpc-ipc-android-client/app/.cxx/Debug/3co6g6u3/arm64-v8a/CMakeFiles/rebuild_cache.dir

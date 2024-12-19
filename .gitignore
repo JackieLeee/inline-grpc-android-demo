@@ -1,0 +1,55 @@
+# 构建的应用程序文件
+*.apk
+*.aar
+*.ap_
+/build/
+
+# 本地配置文件（sdk 路径等）
+.local.properties
+
+# 日志文件
+logs/
+*.log
+
+# Android Studio 文件
+.DS_Store
+.idea/
+*.iml
+/.gradle/
+.gradle/
+/captures/
+/*.idea/
+.out/
+
+# Gradle文件
+build/
+gradle/
+gradle-wrapper.jar
+
+# Eclipse生成的Proguard文件夹
+proguard/
+
+# Windows缩略图缓存
+Thumbs.db
+
+# IntelliJ IDEA目录
+*.iws
+*.ipr
+
+# 密钥库文件
+# 如果您不想意外提交密钥库，请取消注释下一行！
+#*.jks
+
+# Android NDK
+.obj/
+.sconsign.dblite
+ndk-build.out
+
+# Genymotion文件
+*.vbox
+
+# Mac OS X 临时文件
+*.DS_Store
+
+# 杂项
+.prefs

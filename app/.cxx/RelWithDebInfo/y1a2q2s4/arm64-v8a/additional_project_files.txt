@@ -1,0 +1,1 @@
+C:\dev\demo\crossplat-grpc-ipc-android-client\app\src\main\jni\libgrpc_server.h
